@@ -13,7 +13,7 @@ they have Docker desktop downloaded on there PC they can easily access the Proje
 
 #Here is a Look at the Finished product and a Look at Docker desktop.
 ![Alt text](djangodocker1.JPG?raw=true)
-![Alt text](djangodocker2?raw=true)
-![Alt text](djangodocker3?raw=true)
-![Alt text](djangodocker4?raw=true)
-![Alt text](djangodocker5?raw=true)
+![Alt text](djangodocker2.JPG?raw=true)
+![Alt text](djangodocker3.JPG?raw=true)
+![Alt text](djangodocker4.JPG?raw=true)
+![Alt text](djangodocker5.JPG?raw=true)
